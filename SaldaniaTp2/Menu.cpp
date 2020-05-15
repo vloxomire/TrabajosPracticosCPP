@@ -7,7 +7,7 @@ main ()
   do {
   std::cout << "1.Jugar/2.Opciones/3.Salir" << std::endl;
   std::cin >> menu;
-  } while (menu >=4  || menu <= 0);
+  
     
   switch (menu)
         {
@@ -37,6 +37,7 @@ main ()
             std::cout << "1.Alto/2.Mediano/3.Bajo" << std::endl;
             std::cin >> graficos;
         } while (graficos>=4 || graficos <=0);
+        menu = 0;
       break;
     case 2:
       std::cout << "valor actual " << sonido << std::endl;
@@ -49,5 +50,6 @@ main ()
     }
       break;
     }
+  } while (menu >= 4 || menu <= 0);
   return 0;
 }
