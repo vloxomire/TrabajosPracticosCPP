@@ -4,6 +4,7 @@ main()
 {
     float vida, escudo, danio;
     float vidaEne = 20.0f, danioEne = 5.0f;
+
     std::cout << "Ingrese la vida" << std::endl;
     std::cin >> vida;
     std::cout << "Ingrese el escudo" << std::endl;

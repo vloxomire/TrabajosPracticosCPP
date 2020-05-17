@@ -14,6 +14,7 @@ main()
     std::cout << "Ingrese el danio" << std::endl;
     std::cin >> danio;
     float suma = vida + escudo;
+
     //Combate
     int contador = 0;
     std::cout << "Combate" << std::endl;

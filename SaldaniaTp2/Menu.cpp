@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 int
 main()
 {
@@ -81,4 +81,4 @@ main()
 
 	} while (menu >= 4 || menu <= 0);
 	return 0;
-}
+}*/

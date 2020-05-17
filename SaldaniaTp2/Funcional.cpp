@@ -5,6 +5,7 @@ main()
 {
     float vida, escudo, danio;
     float vidaEne = 20.0f, danioEne = 5.0f;
+
     std::cout << "Ingrese la vida" << std::endl;
     std::cin >> vida;
     std::cout << "Ingrese el escudo" << std::endl;
@@ -12,6 +13,7 @@ main()
     std::cout << "Ingrese el danio" << std::endl;
     std::cin >> danio;
     float suma = vida + escudo;
+
     //Combate
     int contador = 0;
     std::cout << "Combate" << std::endl;

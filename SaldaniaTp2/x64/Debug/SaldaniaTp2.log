@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\0-Cursos\C++\GitHub\TrabajosPracticosCPP\SaldaniaTp2\Source.cpp(8,19): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\0-Cursos\C++\GitHub\TrabajosPracticosCPP\SaldaniaTp2\Source.cpp(12,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  SaldaniaTp2.vcxproj -> C:\0-Cursos\C++\GitHub\TrabajosPracticosCPP\x64\Debug\SaldaniaTp2.exe
