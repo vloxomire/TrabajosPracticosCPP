@@ -5,6 +5,11 @@
       "taskLabel": "tarea-pruebas",
       "appliesTo": "SaldaniaTp2/pruebas.cpp",
       "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-pruebas",
+      "appliesTo": "SaldaniaTp2/pruebas.cpp",
+      "type": "launch"
     }
   ]
 }
